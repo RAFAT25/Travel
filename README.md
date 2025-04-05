@@ -22,4 +22,4 @@ npm run deploy
 
 ## رابط مباشر للموقع (بعد النشر)
 
-https://RAFAT25.github.io/Travel-
+https://RAFAT25.github.io/Travel
